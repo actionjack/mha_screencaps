@@ -1,1 +1,1 @@
-# mha_screencaps
+# My Hero Academia Twitter Bot Template
