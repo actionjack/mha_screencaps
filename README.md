@@ -1,4 +1,4 @@
-![Repository Banner](MHAxTwitter.png)
+![Repository Banner](MHATwitterBotBanner.png)
 
 # My Hero Academia Twitter Bot
 
